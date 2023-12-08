@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johannes Padel. Currently a developer at Bekk.
+👋 Hi, I’m Johannes Padel. Currently a developer at Bekk.
 
 
 <!---
